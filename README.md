@@ -1,4 +1,4 @@
-# Metainfo
+# Sunsling
 ![A nice space](images/sas_copenhagen.jpg)
 
 ## Purpose
