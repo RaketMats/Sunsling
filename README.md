@@ -1,4 +1,6 @@
 # Sunsling
+The noble art of finding out how to deal with the wicked mess that is digital product development. From the vantage point a collective of practioners establishing a design situation with a culture of learning.
+Alternative acronyms are 'digital product design products'(dpdp) or 'products for digital development'(pfdd)
 ![A nice space](images/sas_copenhagen.jpg)
 
 ## Purpose
@@ -6,7 +8,7 @@ The purpose is to establish a design situation that makes it possible to discove
 The purpose is to build practical tools. For this, a workshop where these tools can be built is needed and that is what we try to accomplish here. 
 We aim to be a collective of practitioners, thus some concepts and products adress specific domains, such as information governance.
 We also aim to be a culture of learning. Concepts presented here might thereforer be research in varying states of sense making but useful for others who want to participate or explore in there own situation. 
-We are inspired by 'Enterprise Design', manifested by Edgy and EDF/Intersections but also 'Product Design' and the more traditional in IT 'UX/Service Design'.
+We are inspired by, Enterprise Design', since this is the most broad concept so far. The Agile movement, Design movement including Product Design and the digital material knowledge in the form of Software Engineering. All in their broadest concept of mindset, methods, tools building skills. 
 
 ## Insights
 Research work need to be done but it also need methods and tools. It is not only a 'wicked problem' but a 'wicked mess'. This is where work must start. We have a suggestion for method and tool, 'Periodic System' which consists of a 'Particle Cloud' being transformed and done in mainly draw.io for which we have a template. 
