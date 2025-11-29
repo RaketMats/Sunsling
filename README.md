@@ -2,10 +2,11 @@
 ![A nice space](images/sas_copenhagen.jpg)
 
 ## Purpose
-Purpose of this project is to explore what architecture, enterprise design and software engineering can accomplish within digital product development.  
+The purpose is to establish a design situation that makes it possible to discover and explore what architecture, enterprise design, software engineering and agile methods in the broad sense can help out with within digital product development.  
 The purpose is to build practical tools. For this, a workshop where these tools can be built is needed and that is what we try to accomplish here. 
-To become more specific and start adding some constraints, we focus mainly on records management and information governance domain.
-We are inspired by Edgy and EDF/Intersections.
+We aim to be a collective of practitioners, thus some concepts and products adress specific domains, such as information governance.
+We also aim to be a culture of learning. Concepts presented here might thereforer be research in varying states of sense making but useful for others who want to participate or explore in there own situation. 
+We are inspired by 'Enterprise Design', manifested by Edgy and EDF/Intersections but also 'Product Design' and the more traditional in IT 'UX/Service Design'.
 
 ## Insights
 Research work need to be done but it also need methods and tools. It is not only a 'wicked problem' but a 'wicked mess'. This is where work must start. We have a suggestion for method and tool, 'Periodic System' which consists of a 'Particle Cloud' being transformed and done in mainly draw.io for which we have a template. 
