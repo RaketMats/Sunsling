@@ -18,11 +18,11 @@ Vi testar här Mermaid för att adressera log daterad 251130. From here: https:/
 
 ```mermaid
   graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-      D-->F;
+      Problemförståelse-->Behov;
+      Problemförståelse-->Design;
+      Behov-->Build;
+      Design-->Build;
+      Build-->Produkten;
 ```
 
 Ett annat exempel...
