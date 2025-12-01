@@ -2,6 +2,8 @@
 We aim to find practical way of workings, methods and tools to address digital product development which is surprisingly difficult. Since we assume that this is a complex, wicked type of problem it must be done through exploration and discovery. We assume that the way to address this is the same as for digital product development, in fact, it is a kind of digital product we try to develop and thus we need to find ways of working as we discover the tools and products. 
 We also assume that the vantage point to address this is as a collective of practioners establishing a design situation with a culture of learning.
 
+About repo name, it can be an acronym for 'Some UNiversal kNowledge System Learning In General', but it is kind of a stupid name. Maybe just 'dDPD/dAD' meaning 'Digital Product Development rate of change over Architecture & Design', i.e. the mathematical concept of derivatives.
+
 ![A nice space](images/sas_copenhagen.jpg)
 
 ## Purpose
