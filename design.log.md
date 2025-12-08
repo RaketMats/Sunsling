@@ -37,7 +37,18 @@ sequenceDiagram
 ```
 
 # Log
-251130: 
+__251208:__
+Vi börjar med utifrån denna premiss se på de typiska situationer som uppstår vid digital produktutveckling och hur man skulle kunna adressera dem. 
+Ett typiskt fall är: Hur börjar vi arbeta i ett projekt som skall ta fram en ny digital produkt. Bygga. Köpa/upphandling. Förbättra såpass mycket att det kan anses vara mer än bara löpande funktionstillväxt. 
+ 
+Ett designorienterat arbetssätt behövs för komplexa problem men traditionell projektledning och i viss mån även viss agil, har svårt att hantera detta. Därför behövs en ’designsituation’ vilket vi pratar om i ’DesignSituationPlastboxen’. I denna ingår att få utrymme att arbeta med de verktyg o metodiker som passar situationen. Med ’engagement model’ och ’human dynamics’ finns sätt att hantera faktum att man måste i ett designarbete anpassa sig till både verksamhetens organisation och art/kultur. 
+
+Det uppstår i även mindre projekt snabbt stora mängder information som skall hanteras, från research, vid olika sätt att förstå och prova ideer och förslag och när man bygger produkten. - ’Periodiska systemet’ är ett sätt att få research hanterbar.
+- Indigoekvationen är ett sätt att brett ta sig an, både i analys men också samtidigt börja bygga på produkten på ett utforskande sätt. 
+- Torres/OST är en naturlig metodik att hantera detta utforskande. Men här behövs insatser för att få detta att fungera och detta tror vi är värt att adressera.
+- Att utgå från ett mönster i form av ABCDesEnt, att ha som mall ffa för att ta sig hela vägen från research via anlys av behov och design och till att bygga produkten, i kombination med ’reframings’ utifrån arkitekturmodellspåk antingen Edgy eller Archimate
+
+__251130:__ 
 Första version av readme som beskriver initiativet och en första samling av dessa initiativ.
 Reflektion över namnet 'sunsling' som skulle behöva vara något mera abstrakt, förslag 'dpd', 'pdd' el ngn annan abstrakt akronym. 
 
