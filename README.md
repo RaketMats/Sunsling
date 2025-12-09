@@ -1,5 +1,9 @@
-# Sunsling
-We aim to find practical way of workings, methods and tools to address digital product development which is surprisingly difficult. Since we assume that this is a complex, wicked type of problem it must be done through exploration and discovery. We assume that the way to address this is the same as for digital product development, in fact, it is a kind of digital product we try to develop and thus we need to find ways of working as we discover the tools and products.  
+# About
+We aim to find practical way of workings, methods and tools to address digital product development which is surprisingly difficult. Since we assume that this is a complex, wicked type of problem it must be done through exploration and discovery. 
+This is not a methodology with a collection of tools to perform exploration and discovery.
+This is instead a conceptual engine producing what is needed for the specific organisation, team, business and domain that you work in. It is therefore a set of generic patterns and how to implement them in your specific circumstances. It is therefore more of a collective shared with us that constantly learn from experience how to help you become more proficient.
+
+We assume that the way to develop this site, it need to be addressed the same as for digital product development, in fact, it is a kind of digital product we try to develop and thus we need to find ways of working as we discover the tools and products.  
 
 We also assume that the vantage point to address this is as a collective of practioners establishing a design situation with a culture of learning.  
 
