@@ -1,5 +1,24 @@
-# Initiativ
+# Initiativ som pågår
 Detta är ett pågående arbete och därmed är vad som nu finns här, ett kontinuerligt växande material i omfång och i förståelse och därmed utformning, beskrivning.  
+
+## Story ID_251212-A
+**Bakgrund:** Utveckling av digitala produkter handlar alltid om användare, kunder i olika roller men också framför allt om olika personer som skall använda, som leder arbete som utför, i team. I många fall har detta uppmärksammats, särskilt i engelsk litteratur där man använder 'people' isf t.ex 'user'.
+**Insikt:** Det är alltid här man måste börja. Metodiker, verktyg olika leverabler är helt och hållet beroende av de olika personer/people. 
+**Ansats:** Börja här. Hur skall olika personer kunna använda det som tillhandahålls här, hur skall ett sådant samarbete, en sådan samverkan, coop, collaboration, collective fungera, se ut. Sedan, hur skall det som tillhandahålls här se ut i verksamheten, mot de olika personer inom verksamheten eller de man arbetar med och för. 
+Detta är en enda stor HMW som behöver spawnas ut i ett antal stories, vara med som en genomgående egenskap i alla arbeten. Hämta ifrån de metodiker som mer eller mindre adresserar, Edgy/EDF, Team och Org Topologies, Liberating Structures m.m. Det går alltid informera, ofta mildra, ibland lösa.
+
+## Story ID_251211-A
+**Bakgrund:** Detta är en av två huvudsakliga stories, iallafall är det ansatsen. Denna rör sättet att arbeta utforskande utifrån arkitekturramverk och designtänkande. 
+**Insikt:** Arkitekturramverk, designtänkande, att ta sig genom via en rörelse mellan olika moment, hela tiden utifrån att fånga insikter om vad vi behöver lära oss. 
+**Ansats:** Utgå ifrån metodiker som finns, Torres OST, Holistic Product Discovery, Edgy/EDF (senare Archimate). Definiera problemet. Research genom att börja med den kontur Edgy ger. Learn är inte, som i Holistic, en särskild fas utan sker även i explore, structure. (Learning isf Research i Indigo-ekvationen?) 
+
+## Story ID_251211-B
+**Bakgrund:** Detta är den andra av en av två huvudsakliga stories. 
+**Insikt** Att utföra research och learning, att sedan hålla koll och få en överblick som är andvändbar och arbetsbar när det är soo many details, det kräver ngn typ av verktyg. Visio eller draw.io och formen 'Periodiska systemet' fungerar men det är komplicerat att få ut data som är arbetsbar.
+**Insikt:** Visio eller draw.io programmatiskt behandlade, t.ex m Python som script eller i Jupyter verkar fungera. Utifrån möjlighete till 'Data properites' i Shapes som båda dessa verktyg har. Detta kan ta ut, om man använder en enkel mall för data properties, namngivning osv. så går det få ut strukturerad data från modeller som dels kan lista detaljer, insikter, attribut, lösningsförslag osv. Kan formattera i typ .markdown och som sedan kan användas för AI.
+
+# Initiativ att göra
+Detta är alltså typ todo el icebox om d är långt ner.
 
 ## Story ID_251210-A
 **Bakgrund:** Till ArkDes o Human Dynamics eller om d har eget pattern
