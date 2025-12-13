@@ -1,8 +1,39 @@
 # Initiativ
 Detta är ett pågående arbete och därmed är vad som nu finns här, ett kontinuerligt växande material i omfång och i förståelse och därmed utformning, beskrivning.  
 
+## Story ID_251213-A
+Fortsättning på **_130_ABCDesEntOrgSociety** Detta är ett praktiskt mönster, det är en metodik, det behöver göras arbetsbart i en första version. Det är fundamentalt och användbart i både behovsfångst, design av system, beskrivning t.ex i olika format som Stadsplaner. Modellen behöver förbättras, beskriv hur det är uppbyggt, hur det modellerar användande och hur de modellerar design/software engineering. Samt att man kan plockat bort valda delar, eller tvärtom stärka t.ex Society om det är vad som behöver förtydligas. Hur detta anknyter till **_101** som ännu inte finns.
+
+## Story ID_251213-B
+Beskriv metodiken med:
+- Designsituation. Detta bygger ffa på boken 'Design Process och Metod'
+- Problemförståelse. Detta bygger b.la på boken 'Conceptual Blockbusting' och 'Cynefin'-ramverket
+- De olika ytorna Problem, Behov, Design, Build, Produkt, Research  
+- Rörelser i tre olika loopar.
+- ABCDesEnt som lämnar över till software design.  
+- Kadensen genom olika re-framings. 
+  - Alla ovan bygger på flera olika metodiker. 'Holistic Product Discovery', 'Continous Product Discovery'(Torres), Edgy/EDF-frameworks. 'Lean Architecture'(Coplien)
+  - Alltså, detta är inte egna ideer och metodiker till största del utan istället hämtar vi från vad vi ser fungerar men som är både anpassat för verkliga projekt och sådanas stora komplexitet och dessutom behöver alla dessa sätt och metodiker anpassas, få praktiska uttryck, fås att fungera tillsammans och ffa i olika verksamheter och team som arbetar med utveckling och deras förutsättningar. Detta kräver alltså som vi skriver om på andra ställen, ett utforskande i sig, där man börjar tillämpa, prova och lära sig att få detta att fungera i sin egen verksamhet.
+Designsituationen handlar om att etablera ett arbete med tydliga gränser och managing the boundaries och som har delarna tbd beskriv I II osv.  
+
+Problemförståelse o att detta inte bara är det huvudsakliga problemet utan att man hela tiden måste återvända både dit, men också till alla delproblem och förstå vad de innebär, t.ex om man skall illustrera en integration behövs någonslags konversation med användare om behovet av, sedan en helt annan, helt andra modeller för, t.ex en underleverantör som skall bygga den.  
+
+Rörelsen handlar alltså om att en är Indigoekvationen o vad som särskiljer från Design Thinking som alltid går till Build product men att det inte behövs för lärande. 
+Detta är en beskrivning av hur man kan börja arbeta. Det utgår från de tre olika rörelser, Indigo-ekvationen (se och ta modeller från projekt T Tj.förändring samt beskriving och erfarenhter när de nu provas vidare) Hur design thinking behöver bli mera ortogonalt, Indigo way. Hur den andra rörelsen är genom en kadens av reframings utifrån Edgy/EDF. 
+Denna beskrivning parallellt med ABCDesEnt är en fungerande början.
+Beskriv också konceptet med Aphothegmata, alltså man behöver inte följa, man kan läsa o bli inspirerad o över tid dra åt det här hållet.
+Detta är i linje med 'Holistic Product Discovery' men är mera i linje med hur man faktiskt jobbar, att man inte alltid går till en prototyp för att testa eftersom det basala flödet är 'vad behöver vi lära oss' inte 'validate' som i Double Diamond och därmed kan man följa Indigoekvationen, ortogonalt inkl att istället börja med en produkt.  
+Sedan är det att hantera den komplexitet som uppstår med mängden olika insikter, vad som skall göras, hur problem hänger ihop med behov, design osv. I detta är det likt Torres OST men kanske implementerat med en variant av Periodiska och verktyg som Visio/draw.io och 'larix'-applikationsstöd inkl AI.
+Ansats:  
+- Prova boardgame-iden här. Rule cards och Board som man sätter samman av mindre cards. 
+- Stock cards 'Apostrophe Games' 63x88 mm. 
+- En för ABCDesEnt som bör ta typ 6 kort. Rörelsen genom kadensen, 8 kort typ.
+- Problem finding. Rule Cards. Format tbd.
+  
+
+
 ## Story ID_251210-A
-**Bakgrund:** Till ArkDes o Human Dynamics eller om d har eget pattern
+**Bakgrund:** Till ArkDes o Human Dynamics eller om det har eget pattern
 **Insikt:** Det finns en övertro på att katlägga allt, att ha detaljerade underlag man kan ställa frågor mot osv. 
 **Ansats:**Men ibland är det bättre att skapa förutsättningar, organisation, arbetssätt där ma nkan hitta mkt från agila sätt o bättre att bygga en organisation där man snabbt kan få de svar, där alla olika personer o roller är inblandade också är tillgängliga. 
 
@@ -17,7 +48,7 @@ Detta är ett pågående arbete och därmed är vad som nu finns här, ett konti
 **Ansats:** Det finns varianter i både draw.io och i Visio. Visio-varianten har kommit längst och förslag är att anonymisera och publicera så det kan provas - vad vi behöver lära här, behöver definieras ytterligare. En ytterligare ansats är pågående arbete att automatisera via Python för att både kunna producera underlag och normalisera modeller för vidare konsumtion av en AI, detta pågår också och behöver publiceras så det kan provas - vad vi behöver lära här behöver definieras ytterligare.  
   
 ## Story ID_251210-E 
-**Bakgrund:** Det beöhvs maximerat lärande. Det är brett och digert material med många olika patterns, metodiker som refereras till och även verktyg.  
+**Bakgrund:** Det behövs maximerat lärande. Det är brett och digert material med många olika patterns, metodiker som refereras till och även verktyg.  
 **Insikt:** Detta är alltså i sig något som ger långsam kadens i lärandet.  
 **Ansats:** Snabba upp lärande genom att göra det möjligt att prova enkelt. Inspirerat av hur mjukvaruutveckling ofta kan innebära mycket snabba loopar genom att man skriver en liten del av koden, testar, förbättrar. Hur skulle detta kunna göras i detta arbete, som syftar till att få igång en innovation engine.  
   

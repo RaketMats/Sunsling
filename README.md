@@ -30,6 +30,14 @@ Detta är vad vi vill etablera här.
 - Vi börjar sedan arbeta genom att beksriva i ’design.log.md’ som både är en enkel backlog över olika initiativ och en log över hur arbetet fortskrider.
 - Olika leverabler som tas fram, metodiker, mallar, verktyg finns under /Patterns, /Products, /Research utifrån grad av färdighet eller vad det handlar om.
 
+### Organisation av detta repo
+(tbd, illustrera m Mermaid-graph)
+- Readme, denna fil
+- design.log, backlog och progress kring arbete
+- /Patterns - Här finns leverabler som illustrerar verktyg, patterns, metodiker i olika state of readiness.
+- /Products - Här finns mer färdiga produkter att använda.
+- /Research - Bakgrundsmaterial
+- Övriga kataloger är till för olika administrativa artefakter
 
 ## Purpose
 The purpose is to establish a design situation that makes it possible to discover and explore what architecture, enterprise design, software engineering and agile methods in the broad sense can help out with within digital product development.  
