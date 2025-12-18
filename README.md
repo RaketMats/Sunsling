@@ -12,7 +12,7 @@ About repo name, it can be an acronym for 'Some UNiversal kNowledge System Learn
 ![A nice space](images/sas_copenhagen.jpg)
 
 ## Brief
-Att utveckla digitals produkter är ett av de mest komplicerad arbeten som finns. Vi har sett att det ofta innebär olika svårigheter och som resulterar i produkter som inte blir rätt och att det inte alltid blir rätt produkter.  
+Att utveckla digitala produkter är ett av de mest komplicerad arbeten som finns. Vi har sett att det ofta innebär olika svårigheter och som resulterar i produkter som inte blir rätt och att det inte alltid blir rätt produkter.  
 
 Detta har ett antal olika orsaker tror vi, det finns fortfarande inte någon metodik eller verktyg som löser detta fullt ut utan det är alltid en kombination av olika som verkar fungera. Det är ofta så också att metodiker när de presenteras eller lärs ut, inte alltid är så lätta att fås att fungera i praktiken, det behövs erfarenhet, sätt att skala för den storlek på problem och tekniska detaljer som verkliga projekt erbjuder.  
 
@@ -28,13 +28,19 @@ Detta är vad vi vill etablera här.
 ### Så hur fungerar det.
 - Vi utgår från premissen som står här i readme.md. 
 - Vi börjar sedan arbeta genom att beksriva i ’design.log.md’ som både är en enkel backlog över olika initiativ och en log över hur arbetet fortskrider.
-- Olika leverabler som tas fram, metodiker, mallar, verktyg finns under /Patterns, /Products, /Research utifrån grad av färdighet eller vad det handlar om.
+- Det vi tar fram är av olika typ, metodiker, verktyg, mallar eller en kombination av flera. Vi kallar dessa med ett gemensamt begrepp för 'Patterns' för att ansluta till den rörelse inom software engineering som etablerats sedan länge.
+- Det som publiceras är under utveckling tills de når en stabil version, utifrån premissen att det är viktigare att kunna börja prova än att publicera först när det är helt klart.
+- Patterns är organiserade utifrån typer:
+  - Typ A Practitioners. Arkitekter, Tjänstedesigners, Agila coacher m liknande roller. Lead Developers/Developers. Dessa som akn ta till sig och känner igen olika ramverk och koncept och kan bedöma vad våra patterns tillför eller inte och hur de kan använda dem. 
+  - Typ B Andra roller runtomkring. Arkitektur, design os.v leverabler behöver alltid riktas till olika roller och detta adresserar vi här. Projektledare, verksamhetsutvecklare utan arkitekt, designbakgrund. Domänexperter.
+  - Typ C. Detta är patterns för verksamheter som själva vill kunna utföra men inte nödvändigtvis behöver förstå bakomliggande mindset och metodik. Detta är verktyg som leder till resultat men blir grundare eftersom det måste abstraheras. Detta handlar om pedagogik, att hitta olika mekanismer, vår approachering är ifrån board games b.la.
+  - Typ D Domänspecifika. Alla dessa men särskilt typ B och C behöver sedan ofta översättas till respektive domän, dvs offentlig sektor, näringsliv, och olika domäner inom detta, vård, retail, industri, hotell osv.
 
 ### Organisation av detta repo
 (tbd, illustrera m Mermaid-graph)
 - Readme, denna fil
 - design.log, backlog och progress kring arbete
-- /Patterns - Här finns leverabler som illustrerar verktyg, patterns, metodiker i olika state of readiness.
+- /Patterns_Type_A, B osv - Här publiceras olika patterns
 - /Products - Här finns mer färdiga produkter att använda.
 - /Research - Bakgrundsmaterial
 - Övriga kataloger är till för olika administrativa artefakter
