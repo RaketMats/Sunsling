@@ -7,7 +7,9 @@ We assume that the way to develop this site, it need to be addressed the same as
 
 We also assume that the vantage point to address this is as a collective of practioners establishing a design situation with a culture of learning.  
 
-About repo name, it can be an acronym for 'Some UNiversal kNowledge System Learning In General', but it is kind of a stupid name. Maybe just 'dDPD/dAD' meaning 'Digital Product Development rate of change over Architecture & Design', i.e. the mathematical concept of derivatives. Or 'dpd' for 'digital product development'. Or 'dipol' for 'digital product development learning'(yes, the acronym is wrong but it sounds better) 
+## Disclaimers  
+About repo name, it can be an acronym for 'Some UNiversal kNowledge System Learning In General', but it is kind of a stupid name. Maybe just 'dDPD/dAD' meaning 'Digital Product Development rate of change over Architecture & Design', i.e. the mathematical concept of derivatives. Or 'dpd' for 'digital product development'. Or 'dipol' for 'digital product development learning'(yes, the acronym is wrong but it sounds better)  
+About the mix of english and swedish. The work here primarily aimed for a Swedish audience, but sometimes it is easier to think in English, terminology, concepts et al.  
 
 ![A nice space](images/sas_copenhagen.jpg)
 
@@ -31,9 +33,9 @@ Detta är vad vi vill etablera här.
 - Det vi tar fram är av olika typ, metodiker, verktyg, mallar eller en kombination av flera. Vi kallar dessa med ett gemensamt begrepp för 'Patterns' för att ansluta till den rörelse inom software engineering som etablerats sedan länge.
 - Det som publiceras är under utveckling tills de når en stabil version, utifrån premissen att det är viktigare att kunna börja prova än att publicera först när det är helt klart.
 - Patterns är organiserade utifrån typer:
-  - Typ A Practitioners. Arkitekter, Tjänstedesigners, Agila coacher m liknande roller. Lead Developers/Developers. Dessa som akn ta till sig och känner igen olika ramverk och koncept och kan bedöma vad våra patterns tillför eller inte och hur de kan använda dem. 
-  - Typ B Andra roller runtomkring. Arkitektur, design os.v leverabler behöver alltid riktas till olika roller och detta adresserar vi här. Projektledare, verksamhetsutvecklare utan arkitekt, designbakgrund. Domänexperter.
-  - Typ C. Detta är patterns för verksamheter som själva vill kunna utföra men inte nödvändigtvis behöver förstå bakomliggande mindset och metodik. Detta är verktyg som leder till resultat men blir grundare eftersom det måste abstraheras. Detta handlar om pedagogik, att hitta olika mekanismer, vår approachering är ifrån board games b.la.
+  - Typ A Practitioners. Arkitekter, Tjänstedesigners, Agila coacher m liknande roller. Lead Developers/Developers. Dessa som akn ta till sig och känner igen olika ramverk och koncept och kan bedöma vad våra patterns tillför eller inte och hur de kan använda dem. Här är utmaningen att få metodiker och ramverk som ofta kan vara teoretiska och som bidrar med en avgränsad del, att bli både praktiska och fungera ihop. Samt att skala i den omfattning av insikter, behov, aspekter som ett riktigt projekt innebär. Beskrivande, som mallar och på andra sätt.
+  - Typ B Andra roller runtomkring. Arkitektur, design os.v leverabler behöver alltid riktas till olika roller och detta adresserar vi här. Projektledare, verksamhetsutvecklare utan arkitekt, designbakgrund. Domänexperter. Detta handlar både om att presentera arbete från Typ A-sätt och i samarbete, workshops med Typ A-arbete men  tillsammans med olika intressenter. Här handlar det om tydlighet, att lyckas förklara begrepp och koncept så metodiker o verktyg inte blir ett hinder för vad som skall lösas. Mallar, arbetssätt, instruktioner, gamification.
+  - Typ C. Detta är patterns för verksamheter som själva vill kunna utföra men inte nödvändigtvis behöver förstå bakomliggande mindset och metodik. Detta är verktyg som leder till resultat men blir grundare eftersom det måste abstraheras. Detta handlar om pedagogik, att hitta olika mekanismer, vår approachering är ifrån board games eller mycket enklare form som enkla checklistor, eller 'tänkespråk' som är ett koncept från antik filosofi. 
   - Typ D Domänspecifika. Alla dessa men särskilt typ B och C behöver sedan ofta översättas till respektive domän, dvs offentlig sektor, näringsliv, och olika domäner inom detta, vård, retail, industri, hotell osv.
 
 ### Organisation av detta repo
