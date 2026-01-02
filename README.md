@@ -7,6 +7,11 @@ We assume that the way to develop this site, it need to be addressed the same as
 
 We also assume that the vantage point to address this is as a collective of practioners establishing a design situation with a culture of learning.  
 
+## Current status
+*It is impossible for a customer to understand and specify what they want before testing a version of the software*(Brooks 2010). What this implies is that it is necessary to develop digital products in co-operation with customers and that the designer role must have control of the entire chain from needs and purpose to design, building the product and a place to test together with customers. 
+This is applicable both for the methods and tools we try to establish here at Sunsling and users using them and applying at their own work. This also involves adapting since every design situation, i.e. development of digital products, is unique, in regards of the problem at hand, team and social structures, business domain, type of product and technology amongst other aspects.
+So, at Sunsling we now have established a design situation with insights and suggested concepts and products in varying state of readiness. But, how to establish a situation together with users, addressing all different aspects as described above is ongoing and focus for the continued work. This also involves design management, what to focus on, how to scope and limit work to reach result. This is the state of the work right now and is to be continued.
+
 ## Disclaimers  
 About repo name, it can be an acronym for 'Some UNiversal kNowledge System Learning In General', but it is kind of a stupid name. Maybe just 'dDPD/dAD' meaning 'Digital Product Development rate of change over Architecture & Design', i.e. the mathematical concept of derivatives. Or 'dpd' for 'digital product development'. Or 'dipol' for 'digital product development learning'(yes, the acronym is wrong but it sounds better)  
 About the mix of english and swedish. The work here primarily aimed for a Swedish audience, but sometimes it is easier to think in English, terminology, concepts et al.  
@@ -103,6 +108,7 @@ References
 Adams, J(2019): __Conceptual Blockbusting__, Basic Books; 5th edition  
 Aurelius(2025): __aureliuslab.com__, Aureliuslab LLC  
 Brooks(19nn) __The Mythical Man Month__, Addison-Wesley; 2nd edition  
+Brooks(2010) __The Design of Design__, Addison Wesley
 Coplien J, Björnvig G(2010): __Lean Architecture__, Wiley  
 Guenther M, Goebl W(2023): __Edgy__, http://enterprise.design
 Goebl W, Guenther M, Klyver A, Papegaaij B(2020): __Enterprise Design Patterns__, Intersection Group  
